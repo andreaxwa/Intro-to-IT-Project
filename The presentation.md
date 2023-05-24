@@ -96,8 +96,8 @@ It is essentially to ensure that the marketing of our website and app help our t
 
 
 # References
-https://countryeconomy.com/energy-and-environment/co2-emissions/vietnam
-Valls-Val K and Bovea M (2022) ‘Carbon footprint assessment tool for universities: CO2UNV’, Sustainable Production and Consumption, 29(2022):709-804, doi:10.1016/j.spc.2021.11.020.
-https://www.statista.com/statistics/1288198/asean-co2-emissions-by-country/#:~:text=At%20about%20619%20million%20metric,in%20the%20Asia%2DPacific%20region 
-https://repository.vnu.edu.vn/bitstream/VNU_123/133435/1/KY_20211017233601.pdf 
+1. https://countryeconomy.com/energy-and-environment/co2-emissions/vietnam
+2. Valls-Val K and Bovea M (2022) ‘Carbon footprint assessment tool for universities: CO2UNV’, Sustainable Production and Consumption, 29(2022):709-804, doi:10.1016/j.spc.2021.11.020.
+3. https://www.statista.com/statistics/1288198/asean-co2-emissions-by-country/#:~:text=At%20about%20619%20million%20metric,in%20the%20Asia%2DPacific%20region 
+4. https://repository.vnu.edu.vn/bitstream/VNU_123/133435/1/KY_20211017233601.pdf 
 https://www.undp.org/sites/g/files/zskgke326/files/2022-11/UNDP2022_Report%20new_111122.pdf 
