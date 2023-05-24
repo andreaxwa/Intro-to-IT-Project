@@ -2,6 +2,12 @@ Canva slides: https://www.canva.com/design/DAFiamq459w/RQOuWtZKtsi1ESkLOixaFw/ed
 
 Figma design: https://bit.ly/RMITGreen-Figma
 
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
+
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+
 # Part I: Problems
 Rising emissions in Vietnam: Vietnam’s rapid economic growth, urbanization, and industrialization have made the country’s emission levels increase substantially by 515% over the past two decades, from 53 million tons of GHG in 2000 to 326 million tons of GHG in 2021. Similarly, GHG emissions per capita increased by 362% during the same period, from 0.7 metric tons in 2000 to 3.24 metric tons in 2021 (countryeconomy n.d.). This made Vietnam become one of the largest GHG emitters in South East Asia (Statista n.d.)
 → These alarming statistics act as a wakeup call for individuals and organizations to take actions and initiatives to reduce their emissions. 
