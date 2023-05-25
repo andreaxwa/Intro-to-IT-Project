@@ -53,11 +53,16 @@ We deliver our product as a website; hence, it needs to have a good presentation
 
 
 Designing UI/UX: Figma
-Programming languages: HTML, CSS, JavaScript, Java
-Main framework: React Native
-Main IDE: Visual Studio Code
-Collaborative workspace: GitHub
-Hosting the website and database: Cloud services
+
+  Programming languages: HTML, CSS, JavaScript, Java
+
+  Main framework: React Native
+
+  Main IDE: Visual Studio Code
+
+  Collaborative workspace: GitHub
+
+  Hosting the website and database: Cloud services
 
 
 Skills
@@ -65,13 +70,16 @@ We need both technical skills and soft skills to complete our project. First, ha
 
 
 Strong foundation in programming languages, database server.
-Design skills, understanding and applying UI/UX concepts.
-Get used to a collaborative environment like GitHub.
-Soft skills like effective communication and project management.
 
-# Part III: App Demonstration
+  Design skills, understanding and applying UI/UX concepts.
 
+  Get used to a collaborative environment like GitHub.
+
+  Soft skills like effective communication and project management.
+  
 Figma design: https://bit.ly/RMITGreen-Figma
+
+# Part III: Scope and Limits
 
 Scope:
 Data Gathering: The application would compile student’s information on travel, energy use, diet, and other elements that affect their carbon footprint.
