@@ -1,5 +1,5 @@
-[Canva presentation](https://bit.ly/RMITGreen-Canva)
-[Interface design](https://bit.ly/RMITGreen-Figma)
+- [Canva presentation](https://bit.ly/RMITGreen-Canva)
+- [Interface design](https://bit.ly/RMITGreen-Figma)
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
