@@ -1,12 +1,6 @@
 - [Group presentation](https://bit.ly/RMITGreen-Canva)
 - [Interface design](https://bit.ly/RMITGreen-Figma)
 
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
-
-https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
-
 # Introduction
 
 We are Fivetastic team, which consists of Hoàng, Cương, Trung, Trang and Dương. This is a presentation to showcase the potential of our carbon footprint tracking app RMITGreen and highlight its key features and impacts. Throughout this presentation, we’ll state the motivation driving our project, present our solution and mention its potential impacts. And Trang will start the first part of our group’s presentation
