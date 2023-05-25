@@ -1,4 +1,5 @@
-## Presentation: https://bit.ly/RMITGreen-Canva
+[Canva presentation](https://bit.ly/RMITGreen-Canva)
+[Interface design](https://bit.ly/RMITGreen-Figma)
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
@@ -53,8 +54,6 @@ We need both technical skills and soft skills to complete our project. First, ha
 - Design skills, understanding and applying UI/UX concepts.
 - Get used to a collaborative environment like GitHub.
 - Soft skills like effective communication and project management.
-
-## App Demonstration: https://bit.ly/RMITGreen-Figma
 
 # Part III: Scope and Limits
 **Scope:**
