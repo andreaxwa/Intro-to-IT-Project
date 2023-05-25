@@ -9,6 +9,8 @@ https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-f
 
 # Introduction
 
+We are Fivetastic team, which consists of Hoàng, Cương, Trung, Trang and Dương. This is a presentation to showcase the potential of our carbon footprint tracking app RMITGreen and highlight its key features and impacts. Throughout this presentation, we’ll state the motivation driving our project, present our solution and mention its potential impacts. And Trang will start the first part of our group’s presentation
+
 # Part I: Problems
 Rising emissions in Vietnam: Vietnam’s rapid economic growth, urbanization, and industrialization have made the country’s emission levels increase substantially by 515% over the past two decades, from 53 million tons of GHG in 2000 to 326 million tons of GHG in 2021. Similarly, GHG emissions per capita increased by 362% during the same period, from 0.7 metric tons in 2000 to 3.24 metric tons in 2021 (countryeconomy n.d.). This made Vietnam become one of the largest GHG emitters in South East Asia (Statista n.d.) **→** These alarming statistics act as a wakeup call for individuals and organizations to take actions and initiatives to reduce their emissions. 
 
@@ -76,6 +78,7 @@ If the application is successful in assisting RMIT students in controlling and m
 Script: The result will be a decrease in carbon emissions for the RMIT community, since it can encourage RMIT students to adopt more sustainable behaviours. Increased awareness by giving tips can lead to a cultural change toward greener practices, which might then spread to other aspects of their lives and beyond. Furthermore, the application can act as a model for other academic institutions to emulate and possibly pave the way for a more sustainable future for all. Students can now use the tool to build a community where people with the same passion can share tips and advice as well as collaborate to reduce carbon footprint. Lastly, the project could also attract a large number of users due to its wide compatibility and convenience because it will be available on web, iOS and Android.
 
 # Conclusion 
+by providing a set of comprehensive set of features, **RMITGreen** is a transformative solution that can help individuals and organizations to strive towards a more sustainable future.
 
 # Potential questions:
 We planned to calculate the GHG emissions by calling an API from Swagger. We decided to use cloud services because of its advantages in terms of time, money, effort, human resources, etc. Moreover, if our system works well and we want to expand it outside RMIT, we can upgrade the system with ease using cloud. 
