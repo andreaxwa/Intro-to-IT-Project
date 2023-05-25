@@ -65,7 +65,8 @@ Designing UI/UX: Figma
   Hosting the website and database: Cloud services
 
 
-Skills
+## Skills
+  
 We need both technical skills and soft skills to complete our project. First, having a strong foundation in programming languages like HTML, CSS, and JavaScript will help us create this software and make it function. Additionally, managing the data of application users requires knowledge of the PL/SQL language and how to operate Oracle's database server. We can basically learn and apply the skills mentioned above through classroom lectures. Further, it's simple to find online programming courses these days. Students from RMIT in particular are welcome to sign up for free courses on LinkedIn Learning, which is even more convenient. But creating an application requires a lot more expertise than that. An example is design skills, understanding and applying UI/UX concepts is necessary. Teamwork skills are also crucial because developing an application requires more than one individual. Therefore, it is essential to have a collaborative environment like GitHub to make comments, feedback and suggestions easier. Soft skills like effective communication and project management cannot totally be learned through books. So it is important to learn those from both the instructor's advice and the experiences of other students.
 
 
@@ -77,7 +78,7 @@ Strong foundation in programming languages, database server.
 
   Soft skills like effective communication and project management.
   
-Figma design: https://bit.ly/RMITGreen-Figma
+**Figma design:** https://bit.ly/RMITGreen-Figma
 
 # Part III: Scope and Limits
 
