@@ -1,4 +1,4 @@
-Canva slides: https://www.canva.com/design/DAFiamq459w/RQOuWtZKtsi1ESkLOixaFw/edit?utm_content=DAFiamq459w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+## **Canva slides:** https://bit.ly/RMITGreen-Canva
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
@@ -54,9 +54,7 @@ We need both technical skills and soft skills to complete our project. First, ha
 - Get used to a collaborative environment like GitHub.
 - Soft skills like effective communication and project management.
 
-## App Demonstration
-  
-**Figma design:** https://bit.ly/RMITGreen-Figma
+## App Demonstration - **Figma:** https://bit.ly/RMITGreen-Figma
 
 # Part III: Scope and Limits
 **Scope:**
@@ -76,7 +74,7 @@ If the application is successful in assisting RMIT students in controlling and m
 Script: The result will be a decrease in carbon emissions for the RMIT community, since it can encourage RMIT students to adopt more sustainable behaviours. Increased awareness by giving tips can lead to a cultural change toward greener practices, which might then spread to other aspects of their lives and beyond. Furthermore, the application can act as a model for other academic institutions to emulate and possibly pave the way for a more sustainable future for all. Students can now use the tool to build a community where people with the same passion can share tips and advice as well as collaborate to reduce carbon footprint. Lastly, the project could also attract a large number of users due to its wide compatibility and convenience because it will be available on web, iOS and Android.
 
 # Potential questions:
-We planned to calculate the GHG emissions by calling an API from Swagger (Swagger n.d.). We decided to use cloud services because of its advantages in terms of time, money, effort, human resources, etc. Moreover, if our system works well and we want to expand it outside RMIT, we can upgrade the system with ease using cloud. 
+We planned to calculate the GHG emissions by calling an API from Swagger. We decided to use cloud services because of its advantages in terms of time, money, effort, human resources, etc. Moreover, if our system works well and we want to expand it outside RMIT, we can upgrade the system with ease using cloud. 
   
 We are aware that creating native applications improves performance and user experience, which might be our goal for the future once we have a larger customer base. If we design the original application as native one, it will take time to develop it for another operating system as its lack of code reusability, but we can save time if we develop our software as cross platform because of its high reusability of code. Currently, we only propose to develop the program in a cross-platform approach. For now, we’ll use React Native as the main framework for this project. 
   
