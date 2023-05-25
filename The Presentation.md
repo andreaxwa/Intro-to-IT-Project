@@ -7,6 +7,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
 
+# Introduction
+
 # Part I: Problems
 Rising emissions in Vietnam: Vietnam’s rapid economic growth, urbanization, and industrialization have made the country’s emission levels increase substantially by 515% over the past two decades, from 53 million tons of GHG in 2000 to 326 million tons of GHG in 2021. Similarly, GHG emissions per capita increased by 362% during the same period, from 0.7 metric tons in 2000 to 3.24 metric tons in 2021 (countryeconomy n.d.). This made Vietnam become one of the largest GHG emitters in South East Asia (Statista n.d.) **→** These alarming statistics act as a wakeup call for individuals and organizations to take actions and initiatives to reduce their emissions. 
 
@@ -70,17 +72,20 @@ Advice: The software would offer tips for users to lower their emissions based o
 
 # Part IV: Impact
 If the application is successful in assisting RMIT students in controlling and measuring their carbon footprints, the result will be a decrease in carbon emissions for the RMIT community, since it can encourage RMIT students to adopt more sustainable behaviours. While students alone may not be able to solve the problem of global climate change fully, increased awareness still leads to a cultural change toward greener practices, which might then spread to other aspects of their lives and beyond. Furthermore, the application can act as a model for other academic institutions to emulate and possibly pave the way for a more sustainable future for all. Being one of the first carbon footprint calculators for the school, students can now use the tool to build a community where people with the same passion can share tips and advice as well as collaborate to reduce carbon footprint. Lastly, the project could also attract a large number of users due to its wide compatibility and convenience because it will be available on web, iOS and Android.
+
 Script: The result will be a decrease in carbon emissions for the RMIT community, since it can encourage RMIT students to adopt more sustainable behaviours. Increased awareness by giving tips can lead to a cultural change toward greener practices, which might then spread to other aspects of their lives and beyond. Furthermore, the application can act as a model for other academic institutions to emulate and possibly pave the way for a more sustainable future for all. Students can now use the tool to build a community where people with the same passion can share tips and advice as well as collaborate to reduce carbon footprint. Lastly, the project could also attract a large number of users due to its wide compatibility and convenience because it will be available on web, iOS and Android.
+
+# Conclusion 
 
 # Potential questions:
 We planned to calculate the GHG emissions by calling an API from Swagger. We decided to use cloud services because of its advantages in terms of time, money, effort, human resources, etc. Moreover, if our system works well and we want to expand it outside RMIT, we can upgrade the system with ease using cloud. 
-  
+
 We are aware that creating native applications improves performance and user experience, which might be our goal for the future once we have a larger customer base. If we design the original application as native one, it will take time to develop it for another operating system as its lack of code reusability, but we can save time if we develop our software as cross platform because of its high reusability of code. Currently, we only propose to develop the program in a cross-platform approach. For now, we’ll use React Native as the main framework for this project. 
   
 While we acknowledge the potential benefits of using AI to enhance our app's accuracy and reliability in areas such as emissions estimation, progress tracking, and personalized recommendations, we have decided against its implementation due to limited resources, a small customer base, and data privacy concerns.
-  
+
 Marketing of our website and app, to ensure that our target audience knows about our project and fully understands its value proposition. We believe it is crucial to reach as many consumers as possible with this application. To notify RMIT students about this application, we will first get in touch with RMIT Student Council or other clubs. Later, we might create our own social networking pages to market to people outside the university.
-  
+
 It is essentially to ensure that the marketing of our website and app help our target audience understand the value of our project. We aim to reach as many people as possible with our application. To notify RMIT students about our app, we plan to engage with the RMIT Student Council and other clubs. As we expand beyond the university, we may create social networking pages to reach a broader audience. Our marketing efforts will focus on highlighting the app's unique features, such as its survey-based calculations, privacy protection, and ability to support sustainable practices.
 
 # References
