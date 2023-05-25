@@ -1,7 +1,5 @@
 Canva slides: https://www.canva.com/design/DAFiamq459w/RQOuWtZKtsi1ESkLOixaFw/edit?utm_content=DAFiamq459w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
-Figma design: https://bit.ly/RMITGreen-Figma
-
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
@@ -17,7 +15,7 @@ Young consumers’ lack of environmental knowledge and interest: UNDP (2022) rep
 
 
 # Part II: Solution
-Design and Features
+## Design and Features
 
 We proudly present to you our solution, RMITGreen. 
 
@@ -49,7 +47,7 @@ Our app will utilise different calculation methodologies (e.g., input-output ana
 
 # Part III: Tools and Technology, App Demo
 
-Tools and Technologies
+## Tools and Technologies
 
 We deliver our product as a website; hence, it needs to have a good presentation layer (frontend) as well as a good data access layer (backend). Firstly, frontend should involve an easy-to-use and understandable UI (User Interface) which can be designed on a collaborative web application called Figma. Then, the prototype on Figma will be transformed into a real website using programming languages such as JavaScript, HTML, and CSS. Therefore, we need a text editor to code which can vary from built-in ones such as Notepad for Windows, TextEdit for MacOS to third-party editors (Vim, Visual Studio Code). We will upload all the code onto Github to facilitate collaboration and track other team members’ activities, as well as the website's version history. Then, we will move to the backend section. For architecture, Java is the most common and oldest language that still exists to this day and takes important roles in building and maintaining backend components. Lastly, we decide to implement an Oracle database server using its procedural language, PL/SQL. 
 
@@ -71,6 +69,9 @@ Design skills, understanding and applying UI/UX concepts.
 Get used to a collaborative environment like GitHub.
 Soft skills like effective communication and project management.
 
+# Part III: App Demonstration
+
+Figma design: https://bit.ly/RMITGreen-Figma
 
 Scope:
 Data Gathering: The application would compile student’s information on travel, energy use, diet, and other elements that affect their carbon footprint.
@@ -89,19 +90,17 @@ Lack of calculating categories: there are lots of other activities that can emit
 If the application is successful in assisting RMIT students in controlling and measuring their carbon footprints, the result will be a decrease in carbon emissions for the RMIT community, since it can encourage RMIT students to adopt more sustainable behaviours. While students alone may not be able to solve the problem of global climate change fully, increased awareness still leads to a cultural change toward greener practices, which might then spread to other aspects of their lives and beyond. Furthermore, the application can act as a model for other academic institutions to emulate and possibly pave the way for a more sustainable future for all. Being one of the first carbon footprint calculators for the school, students can now use the tool to build a community where people with the same passion can share tips and advice as well as collaborate to reduce carbon footprint. Lastly, the project could also attract a large number of users due to its wide compatibility and convenience because it will be available on web, iOS and Android.
 Script: The result will be a decrease in carbon emissions for the RMIT community, since it can encourage RMIT students to adopt more sustainable behaviours. Increased awareness by giving tips can lead to a cultural change toward greener practices, which might then spread to other aspects of their lives and beyond. Furthermore, the application can act as a model for other academic institutions to emulate and possibly pave the way for a more sustainable future for all. Students can now use the tool to build a community where people with the same passion can share tips and advice as well as collaborate to reduce carbon footprint. Lastly, the project could also attract a large number of users due to its wide compatibility and convenience because it will be available on web, iOS and Android.
 
-
-
-
-
-
 # Potential questions:
+
 We planned to calculate the GHG emissions by calling an API from Swagger (Swagger n.d.). We decided to use cloud services because of its advantages in terms of time, money, effort, human resources, etc. Moreover, if our system works well and we want to expand it outside RMIT, we can upgrade the system with ease using cloud. 
+  
 We are aware that creating native applications improves performance and user experience, which might be our goal for the future once we have a larger customer base. If we design the original application as native one, it will take time to develop it for another operating system as its lack of code reusability, but we can save time if we develop our software as cross platform because of its high reusability of code. Currently, we only propose to develop the program in a cross-platform approach. For now, we’ll use React Native as the main framework for this project. 
+  
 While we acknowledge the potential benefits of using AI to enhance our app's accuracy and reliability in areas such as emissions estimation, progress tracking, and personalized recommendations, we have decided against its implementation due to limited resources, a small customer base, and data privacy concerns.
+  
 Marketing of our website and app, to ensure that our target audience knows about our project and fully understands its value proposition. We believe it is crucial to reach as many consumers as possible with this application. To notify RMIT students about this application, we will first get in touch with RMIT Student Council or other clubs. Later, we might create our own social networking pages to market to people outside the university.
+  
 It is essentially to ensure that the marketing of our website and app help our target audience understand the value of our project. We aim to reach as many people as possible with our application. To notify RMIT students about our app, we plan to engage with the RMIT Student Council and other clubs. As we expand beyond the university, we may create social networking pages to reach a broader audience. Our marketing efforts will focus on highlighting the app's unique features, such as its survey-based calculations, privacy protection, and ability to support sustainable practices.
-
-
 
 # References
 1. https://countryeconomy.com/energy-and-environment/co2-emissions/vietnam
