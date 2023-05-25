@@ -19,31 +19,21 @@ Young consumers’ lack of environmental knowledge and interest: UNDP (2022) rep
 
 We proudly present to you our solution, RMITGreen. 
 
-To foster an institutional culture of sustainability, our group aims to develop a mobile- and web-based carbon footprint tracking app called RMITGreen, designed for RMIT students to help them estimate their daily activities’ environmental effects. It will also provide students with educational resources to increase their environmental conscience and guide them on how to offset their footprints
-<show the UI design we made on Figma>
+To foster an institutional culture of sustainability, our group aims to develop a mobile- and web-based carbon footprint tracking app called RMITGreen, designed for RMIT students to help them estimate their daily activities’ environmental effects. It will also provide students with educational resources to increase their environmental conscience and guide them on how to offset their footprints.
+  
+Our app will utilise different calculation methodologies (e.g., input-output analysis, activity-based, fuel-based, spend-based approaches) to estimate an average student's GHG emissions based on their input about their behavior in activities that are considered students' typical emission sources, including dining, daily commutes, and water and electricity use at home or in class.
 
-input data for calculation through survey. there will be descriptions and requirements for each section, including what the input unit is, as well as navigation buttons to move to the next or the previous section. <show an example: in the transportation section, there will be options for walking, cycling, motorbiking, taxis, or cars because different types of vehicles will need different carbon footprint calculation formulas.>
+To use the app, users input data through a survey to calculate carbon emissions. There will be descriptions and requirements for each section, including what the input unit is, as well as navigation buttons. <in the transportation section, there will be options for walking, cycling, motorbiking, taxis, or cars because different types of vehicles will need different carbon footprint calculation formulas.>
 
-after entering the data, there will be a "Submit" button, and the score will be displayed at the top, accompanied by a chart below to describe the ratio between the inputs. user can see how their score compares to the average score of other users. there will be tips to improve one's carbon footprint.
+After submitting the data, users will see a score and a chart comparing their score to the average score of other users. There will be personalised tips to reduce carbon emissions.
 
 We initially wanted to develop both mobile and web apps at the same time, but now we will focus on the web version first, then port it to Android and iOS. Most of the interfaces and features will be identical. 
 
-
-
-A sample page of the web version:
-
-Download page:
-
-
-
-Differentiation: RMITGreen is designed to provide users with a reference for their carbon footprint emissions while also ensuring data privacy. Therefore, the app will rely solely on survey-based input for calculations and do not request access to sensitive information such as bank accounts, GPS, or calendar apps like other carbon footprint calculator apps on the market.
+**Differentiation:** RMITGreen is designed to provide users with a reference for their carbon footprint emissions while also ensuring data privacy. Therefore, the app will rely solely on survey-based input for calculations and do not request access to sensitive information such as bank accounts, GPS, or calendar apps like other carbon footprint calculator apps on the market.
   
-Profit: Our app is not currently designed to generate profit, but we remain open to financial support at a later stage. If our project is successfully implemented, we plan to raise funds through crowdfunding, partnerships, and grants. However, our app's mission and users' privacy will always be our top priorities (Frankenfield 2022; Redshaw Advisors n.d.).
+**Profit:** Our app is not currently designed to generate profit, but we remain open to financial support at a later stage. If our project is successfully implemented, we plan to raise funds through crowdfunding, partnerships, and grants. However, our app's mission and users' privacy will always be our top priorities (Frankenfield 2022; Redshaw Advisors n.d.).
   
-Opportunities: This project could raise awareness about environmental issues so people can adjust their habits and behaviours to minimise harmful actions to the planet. 
-  
-Description
-Our app will utilise different calculation methodologies (e.g., input-output analysis, activity-based, fuel-based, spend-based approaches) to estimate an average student's GHG emissions based on their input about their behavior in activities that are considered students' typical emission sources, including dining, daily commutes, and water and electricity use at home or in class.
+**Opportunities:** This project could raise awareness about environmental issues so people can adjust their habits and behaviours to minimise harmful actions to the planet. 
 
 # Part III: Tools and Technology, App Demo
 
@@ -52,17 +42,12 @@ Our app will utilise different calculation methodologies (e.g., input-output ana
 We deliver our product as a website; hence, it needs to have a good presentation layer (frontend) as well as a good data access layer (backend). Firstly, frontend should involve an easy-to-use and understandable UI (User Interface) which can be designed on a collaborative web application called Figma. Then, the prototype on Figma will be transformed into a real website using programming languages such as JavaScript, HTML, and CSS. Therefore, we need a text editor to code which can vary from built-in ones such as Notepad for Windows, TextEdit for MacOS to third-party editors (Vim, Visual Studio Code). We will upload all the code onto Github to facilitate collaboration and track other team members’ activities, as well as the website's version history. Then, we will move to the backend section. For architecture, Java is the most common and oldest language that still exists to this day and takes important roles in building and maintaining backend components. Lastly, we decide to implement an Oracle database server using its procedural language, PL/SQL. 
 
 
-Designing UI/UX: Figma
-
-  Programming languages: HTML, CSS, JavaScript, Java
-
-  Main framework: React Native
-
-  Main IDE: Visual Studio Code
-
-  Collaborative workspace: GitHub
-
-  Hosting the website and database: Cloud services
+- Designing UI/UX: Figma
+- Programming languages: HTML, CSS, JavaScript, Java
+- Main framework: React Native
+- Main IDE: Visual Studio Code
+- Collaborative workspace: GitHub
+- Hosting the website and database: Cloud services
 
 
 ## Skills
