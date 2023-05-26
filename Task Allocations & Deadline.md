@@ -23,6 +23,7 @@ For the presentation:
  For the report:
 
  | Tasks | Allocate |
+ | --- | --- |
  | Tools - Github Page | Duong |
  
 
