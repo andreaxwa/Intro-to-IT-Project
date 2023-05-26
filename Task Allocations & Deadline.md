@@ -1,4 +1,5 @@
 For the presentation: 
+
  | Tasks | Allocate |
  | --- | --- |
  | First Slide: Introduction - team members, the presentation’s purpose, hook | Hoang (30s) |
@@ -15,13 +16,15 @@ For the presentation:
 18/5 Part 2
 19/5 Part 3, 4, 5
 20/5 Finish UI design for our app/website
-20/5 Finalising Presentation content - IT Presentation
+20/5 Finalising Presentation content
 22/5 Finalising Canva slides for Presentation + Rehearsal
 23/5 Submit slides
 
  For the report:
 
  | Tasks | Allocate |
+ | Tools - Github Page | Duong |
+ 
 
 30/5 Finalising Assignment 3 report
 1/6 Finalising GitHub page
