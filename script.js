@@ -1,7 +1,7 @@
 // Smooth scrolling to section
 function scrollToSection(id) {
     const section = document.getElementById(id);
-    const offset = 130;
+    const offset = 110;
     
     if (section) {
       const top = section.offsetTop - offset;
