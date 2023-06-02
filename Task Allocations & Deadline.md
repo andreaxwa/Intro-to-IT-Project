@@ -11,6 +11,8 @@ For the presentation:
  | Last Slide: Q&A section | The whole team (2.5 mins) |
  | Reformat the slides (so that it has a uniformed look throughout) | The whole team |
  
+**Deadline:**
+
 16/5 First Slide & Last Slide
 
 17/5 Part 1 
@@ -38,24 +40,15 @@ For the presentation:
  | Project Description - Scope and Limits | Cuong
  | Project Description - Tools and Technology | Cuong, Hoang
  | Project Description - Testing | Trung, Hoang
-Project Description - Timeframe (2 people)
-Who do what & when? Gantt chart
-Cuong, Trung
-Project Description - Risks (2 people)
-Trung, Duong
-Project Description - Group processes and communications (2 people)
-Duong, Trung
-Skills and Jobs (2 people)
-Trang
-Group Reflection (all team members contribute) (1 person)
-Trang
-Reformat code + Finalize website (2 people)
-Cuong
-Reference + Format pdf 
-Duong
+ | Project Description - Timeframe | Cuong, Trung
+ | Project Description - Risks (2 people) | Trung, Duong
+ | Project Description - Group processes and communications | Duong, Trung
+ | Skills and Jobs (2 people) | Trang
+ | Group Reflection (all team members contribute) | Trang
+ | Reformat code + Finalize website (2 people) | Cuong
+ | Reference + Format pdf | Duong
 
-
- 
+**Deadline:**
 
 30/5 Finalising Assignment 3 report
 
