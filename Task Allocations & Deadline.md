@@ -30,9 +30,31 @@ For the presentation:
 
  | Tasks | Allocate |
  | --- | --- |
- | Tools - Github Page | Duong (all team members should contribute) |
+ | Tools - Github Page (all team members should contribute) | Duong |
  | Project Description - Overview | Trang |
  | Project Description - Aims | Trang |
+ | Project Description - Plan and Progress | Cuong, Hoang
+ | Project Description - Roles | Trung
+ | Project Description - Scope and Limits | Cuong
+ | Project Description - Tools and Technology | Cuong, Hoang
+ | Project Description - Testing | Trung, Hoang
+Project Description - Timeframe (2 people)
+Who do what & when? Gantt chart
+Cuong, Trung
+Project Description - Risks (2 people)
+Trung, Duong
+Project Description - Group processes and communications (2 people)
+Duong, Trung
+Skills and Jobs (2 people)
+Trang
+Group Reflection (all team members contribute) (1 person)
+Trang
+Reformat code + Finalize website (2 people)
+Cuong
+Reference + Format pdf 
+Duong
+
+
  
 
 30/5 Finalising Assignment 3 report
