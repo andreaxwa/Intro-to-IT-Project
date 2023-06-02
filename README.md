@@ -8,3 +8,6 @@ See [Task Allocation and internal Deadlines](https://github.com/andreaxwa/Intro-
 See [The Presentation](https://github.com/andreaxwa/Intro-to-IT-Project/blob/main/The%20Presentation.md) (10%) 
 
 See [The Report](https://github.com/andreaxwa/Intro-to-IT-Project/blob/main/index.html) (30%) - as html file
+
+
+![alt text](https://github.com/andreaxwa/Intro-to-IT-Project/blob/main/img/App%20-%20Startup%20Screen.png)
