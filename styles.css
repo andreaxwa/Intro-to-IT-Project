@@ -16,6 +16,7 @@ header {
     top: 0;
     right: 0;
     left: 0;
+    height: 100px;
   }
 
 /* Logo */
@@ -28,11 +29,11 @@ header {
 /* Navigation */
 nav {
     position: fixed;
-    background-color: rgba(0, 128, 0, 0.333);
+    background-color: #b6d6b3;
     padding: 10px;
     width: 250px;
     left: 0;
-    top: 133px;
+    top: 120px;
     bottom: 0;
   }
   
@@ -67,7 +68,7 @@ main {
     /* display: block; */
     flex: 1;
     margin-left: 280px;
-    padding-top: 133px;
+    padding-top: 120px;
   }
 
 /* Green headings */
@@ -97,7 +98,12 @@ tr {
 }
 
 #table--scope th.column1 {
-    width: 300px;
+    width: 280px;
+}
+
+.column2 {
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #table--scope th.column3 {
@@ -120,7 +126,7 @@ tr {
 }
 
 /* Back to top button */
-#back-to-top {
+#go-to-top {
     display: none;
     position: fixed;
     bottom: 20px;
@@ -134,7 +140,29 @@ tr {
     cursor: pointer;
   }
   
-#back-to-top:hover {
+#go-to-top:hover {
     background-color: green;
   }
-  
+
+/* Figures */
+.figure {
+    max-width: 1500px;
+    text-align: center;
+}
+
+.figure img {
+    max-width: 1500px;
+    border: 1px solid black;
+}
+
+/* Gantt chart appendix */
+#gantt {
+    max-width: 1500px;
+    border: 2px solid black;
+}
+
+/* Wrap references */
+#references {
+    word-break: break-all;
+    white-space: normal;
+}
