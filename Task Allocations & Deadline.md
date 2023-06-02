@@ -12,21 +12,31 @@ For the presentation:
  | Reformat the slides (so that it has a uniformed look throughout) | The whole team |
  
 16/5 First Slide & Last Slide
+
 17/5 Part 1 
+
 18/5 Part 2
+
 19/5 Part 3, 4, 5
+
 20/5 Finish UI design for our app/website
 20/5 Finalising Presentation content
+
 22/5 Finalising Canva slides for Presentation + Rehearsal
+
 23/5 Submit slides
 
  For the report:
 
  | Tasks | Allocate |
  | --- | --- |
- | Tools - Github Page | Duong |
+ | Tools - Github Page | Duong (all team members should contribute) |
+ | Project Description - Overview | Trang |
+ | Project Description - Aims | Trang |
  
 
 30/5 Finalising Assignment 3 report
+
 1/6 Finalising GitHub page
+
 2/6 Submit Assignment 3
