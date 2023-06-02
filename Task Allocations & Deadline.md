@@ -21,8 +21,7 @@ For the presentation:
 
 19/5 Part 3, 4, 5
 
-20/5 Finish UI design for our app/website
-20/5 Finalising Presentation content
+20/5 Finish UI design for our app/website + Finalising Presentation content
 
 22/5 Finalising Canva slides for Presentation + Rehearsal
 
