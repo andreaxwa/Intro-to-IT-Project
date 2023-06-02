@@ -28,7 +28,7 @@ For the presentation:
 
 23/5 Submit slides
 
-<br>
+---
 
  For the report:
 
