@@ -33,12 +33,11 @@ For the presentation:
 
  | Tasks | Allocate |
  | --- | --- |
- | Tools - Github Page (all team members should contribute) | Duong |
+ | Tools - Github Page (all team members  contribute) | Duong |
  | Project Description - Overview + Aims | Trang |
- | Project Description - Plan and Progress | Cuong, Hoang
+ | Project Description - Plan and Progress + Tools and Technology | Cuong, Hoang
  | Project Description - Roles | Trung
  | Project Description - Scope and Limits | Cuong
- | Project Description - Tools and Technology | Cuong, Hoang
  | Project Description - Testing | Trung, Hoang
  | Project Description - Timeframe | Cuong, Trung
  | Project Description - Risks + Group processes and communications | Trung, Duong
