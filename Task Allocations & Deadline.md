@@ -30,7 +30,9 @@ For the presentation:
 
  | Tasks | Allocate |
  | --- | --- |
- | Tools - Github Page | Duong |
+ | Tools - Github Page | Duong (all team members should contribute) |
+ | Project Description - Overview | Trang |
+ | Project Description - Aims | Trang |
  
 
 30/5 Finalising Assignment 3 report
