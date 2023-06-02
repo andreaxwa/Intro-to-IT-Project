@@ -34,19 +34,17 @@ For the presentation:
  | Tasks | Allocate |
  | --- | --- |
  | Tools - Github Page (all team members should contribute) | Duong |
- | Project Description - Overview | Trang |
- | Project Description - Aims | Trang |
+ | Project Description - Overview + Aims | Trang |
  | Project Description - Plan and Progress | Cuong, Hoang
  | Project Description - Roles | Trung
  | Project Description - Scope and Limits | Cuong
  | Project Description - Tools and Technology | Cuong, Hoang
  | Project Description - Testing | Trung, Hoang
  | Project Description - Timeframe | Cuong, Trung
- | Project Description - Risks (2 people) | Trung, Duong
- | Project Description - Group processes and communications | Duong, Trung
- | Skills and Jobs (2 people) | Trang
+ | Project Description - Risks + Group processes and communications | Trung, Duong
+ | Skills and Jobs | Trang
  | Group Reflection (all team members contribute) | Trang
- | Reformat code + Finalize website (2 people) | Cuong
+ | Reformat code + Finalize website | Cuong
  | Reference + Format pdf | Duong
 
 **Deadline:**
